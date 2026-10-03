@@ -3,11 +3,11 @@
 
 class Calculator
 {
-    public:
-        int Add (double, double);
-        int Sub (double, double);
-        int Mul (double, double);
-        int Dil (double, double);
+public:
+    int Add(double a, double b);
+    int Sub(double a, double b);
+    int Mul(double a, double b);
+    int Dil(double a, double b); // "Dil" - мабуть, "ділення" (Division)
 };
 
-#endif//CALCULATOR_H
+#endif

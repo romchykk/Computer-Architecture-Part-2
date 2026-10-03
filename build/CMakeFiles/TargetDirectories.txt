@@ -1,0 +1,4 @@
+/home/roman/calculator/build/CMakeFiles/calculator_lib.dir
+/home/roman/calculator/build/CMakeFiles/calculator_app.dir
+/home/roman/calculator/build/CMakeFiles/edit_cache.dir
+/home/roman/calculator/build/CMakeFiles/rebuild_cache.dir
